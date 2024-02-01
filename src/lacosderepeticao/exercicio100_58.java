@@ -6,6 +6,7 @@ public class exercicio100_58 {
 
 	public static void main(String[] args) {
 		// Ler um número e exibeir o primeiros quadrados perfeitos!
+		// Um quadrado perfeito é um número natural que se extrairmos a raiz quadrada, possui como resultado outro número natural.
 		
 		Scanner scan = new Scanner(System.in);
 		
